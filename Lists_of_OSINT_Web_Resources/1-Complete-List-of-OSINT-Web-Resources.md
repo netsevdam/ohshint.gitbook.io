@@ -954,7 +954,7 @@ Remember, CTRL+F is your friend here.
    Enter a URL or keyword and view websites that are similar or match your keyword.
  - [Alexa Similar Site Search](https://www.alexa.com/find-similar-sites)  
    A great similar site search tool offered by Amazon. Simply search any URL and view the results. For additional results a paid subscription is required.
- - [SiteLike](https://korsantaksiistanbul.org/)  
+ - [SiteLike](https://korsantaksiistanbul.com/)  
    Another simple tool to find related websites via URL.
  - [SimilarWeb](https://mavitaksi.godaddysites.com/)  
    A great tool for finding similar and/or competitor websites. Search via website URL.
