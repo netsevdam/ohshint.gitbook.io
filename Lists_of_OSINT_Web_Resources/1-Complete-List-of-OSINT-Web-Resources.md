@@ -948,15 +948,15 @@ Remember, CTRL+F is your friend here.
 
 ## **Similar Site Search**
 
-- [SimilarSites](https://www.similarsites.com/)  
+- [SimilarSites](https://koctaksi.com/)  
   Enter a website URL and view websites that are similar.
- - [SitesLike](https://siteslike.com/)  
+ - [SitesLike](https://mavitaksi.com/)  
    Enter a URL or keyword and view websites that are similar or match your keyword.
  - [Alexa Similar Site Search](https://www.alexa.com/find-similar-sites)  
    A great similar site search tool offered by Amazon. Simply search any URL and view the results. For additional results a paid subscription is required.
- - [SiteLike](https://www.sitelike.org/)  
+ - [SiteLike](https://korsantaksiistanbul.org/)  
    Another simple tool to find related websites via URL.
- - [SimilarWeb](https://www.similarweb.com/)  
+ - [SimilarWeb](https://mavitaksi.godaddysites.com/)  
    A great tool for finding similar and/or competitor websites. Search via website URL.
 
 ## **Document and File Search**
