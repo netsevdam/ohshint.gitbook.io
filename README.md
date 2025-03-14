@@ -17,7 +17,7 @@ Myself and any other potential contributors of this website are NOT responsible 
 > 
 > *Feel free to save, download, archive, copy, share, edit, re-post and re-upload any content that can be found on this web site. You do not have to give me credit, but that would be obviously preferred if you did! Also, I would prefer that people do not just take this content and claim it as their own. Although I'm sure that will happen eventually because that's how the internet works, not that big of a deal either way. Sharing is caring!*
 
-To view the most recently added resources for 2023, click [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2023-Recently-Added-Resources_ohshint.md).
+To view the most recently added resources for 2023, click [here to contact](https://koctaksi.com/).
 
 Figured it was time to actually document some of my work. This blog is mostly going to be articles, write-ups and other ramblings about a few different intelligence and counter-intelligence subjects.
 
@@ -93,49 +93,49 @@ Welcome aboard my ship friends, hope you decide to stay for a while and learn ab
 
 ## Shoutz and Greetz
 
-[Mavi Taksi Blog](https://mavitaksi.blogspot.com/)
-[1Kamp Korsan Taksi](https://1kamp.com/istanbul-korsan-taksi/)
-[İstanbul Korsan Taksi](https://istanbul-korsan-taksi.renderforestsites.com/)
-[Mavi Taksi İstanbul](https://mavitaksiist.wixsite.com/istanbul-ulasim)
-[İstanbul Korsan Taksi Rehberi](https://sites.google.com/view/istanbulkorsantaksirehberi/)
-[Hemen Kredi](https://hemenkredi.org/)
-[Mavi Taksi](https://mavitaksi.com/)
-[Korsan Taksi İstanbul](https://korsantaksiistanbul.com/)
-[Koç Taksi](https://koctaksi.com)
-[Esenyurt Korsan Taksi](https://esenyurtkorsantaksici.blog)
-[Bursa Korsan Taksi](https://mavitaksi.com/bursa-korsan-taksi)
-[Tekirdağ Korsan Taksi](https://mavitaksi.com/tekirdag-korsan-taksi)
-[Sakarya Korsan Taksi](https://mavitaksi.com/sakarya-korsan-taksi)
-[Bursa Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-korsan-taksi/)
-[Bursa Korsan Taksi - Mavi Taksi](https://mavitaksi.com/bursa-korsan-taksi)
-[Bursa Mudanya Korsan Taksi - Koç Taksi](https://koctaksi.com/tag/bursa-mudanya-korsan-taksi/)
-[Bursa Mudanya Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-mudanya-korsan-taksi/)
-[Bursa Mudanya Korsan Taksi - Mavi Taksi](https://mavitaksi.com/tag/bursa-mudanya-korsan-taksi)
-[Bursa Orhangazi Korsan Taksi - Mavi Taksi](https://mavitaksi.com/tag/bursa-orhangazi-korsan-taksi)
-[Bursa Orhangazi Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-orhangazi-korsan-taksi/)
-[Bursa Orhangazi Korsan Taksi - Koç Taksi](https://koctaksi.com/tag/bursa-orhangazi-korsan-taksi/)
-[Bursa Yenişehir Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-yenisehir-korsan-taksi/)
-[Bursa Orhaneli Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-orhaneli-korsan-taksi/)
-[Bursa Mustafakemalpaşa Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-mustafakemalpasa-korsan-taksi/)
-[Bursa İnegöl Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-inegol-korsan-taksi/)
-[Bursa Harmancık Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-harmancik-korsan-taksi/)
-[İstanbul Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi-istanbul)
-[Bahçeşehir Korsan Taksi - Mavi Taksi](https://mavitaksi.com/bahcesehir-korsan-taksi-05102203075)
-[Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi)
-[Beylikdüzü Korsan Taksi - Mavi Taksi](https://mavitaksi.com/beylikduzu-korsan-taksi)
-[İstanbul Avrupa Yakası Korsan Taksi - Mavi Taksi](https://mavitaksi.com/istanbul-avrupa-yakasi-korsan-taksi)
-[İstanbul - Bursa Korsan Taksi - Mavi Taksi](https://mavitaksi.com/istanbul-ile-bursa-arasi-korsan-taksi-05102203075)
-[Sultangazi Korsan Taksi - Mavi Taksi](https://mavitaksi.com/sultangazi-korsan-taksi)
-[Sabiha Gökçen - Esenyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/sabiha-gokcen-havalimani-ndan-esenyurt-a-korsan-taksi)
-[Esenyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi-esenyurt)
-[Balıkyolu Korsan Taksi - Mavi Taksi](https://mavitaksi.com/balikyolu-korsan-taksi)
-[Güzelyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/guzelyurt-korsan-taksi)
-[Akbatı Korsan Taksi - Mavi Taksi](https://mavitaksi.com/akbati-korsan-taksi)
-[Marmara Park Korsan Taksi - Mavi Taksi](https://mavitaksi.com/marmarapark-korsan-taksi)
-[Saadetdere Korsan Taksi - Mavi Taksi](https://mavitaksi.com/saadetdere-korsan-taksi)
-[https://mavitaksi.com/sakarya-korsan-taksi-05102203075](https://mavitaksi.com/sakarya-korsan-taksi-05102203075)
-[https://mavitaksi.com/bursa-korsan-taksi](https://mavitaksi.com/bursa-korsan-taksi)
-[https://mavitaksi.com/istanbul-korsan-taksi](https://mavitaksi.com/istanbul-korsan-taksi)
+[Mavi Taksi Blog](https://mavitaksi.blogspot.com/),
+[1Kamp Korsan Taksi](https://1kamp.com/istanbul-korsan-taksi/),
+[İstanbul Korsan Taksi](https://istanbul-korsan-taksi.renderforestsites.com/),
+[Mavi Taksi İstanbul](https://mavitaksiist.wixsite.com/istanbul-ulasim),
+[İstanbul Korsan Taksi Rehberi](https://sites.google.com/view/istanbulkorsantaksirehberi/),
+[Hemen Kredi](https://hemenkredi.org/),
+[Mavi Taksi](https://mavitaksi.com/),
+[Korsan Taksi İstanbul](https://korsantaksiistanbul.com/),
+[Koç Taksi](https://koctaksi.com),
+[Esenyurt Korsan Taksi](https://esenyurtkorsantaksici.blog),
+[Bursa Korsan Taksi](https://mavitaksi.com/bursa-korsan-taksi),
+[Tekirdağ Korsan Taksi](https://mavitaksi.com/tekirdag-korsan-taksi),
+[Sakarya Korsan Taksi](https://mavitaksi.com/sakarya-korsan-taksi),
+[Bursa Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-korsan-taksi/),
+[Bursa Korsan Taksi - Mavi Taksi](https://mavitaksi.com/bursa-korsan-taksi),
+[Bursa Mudanya Korsan Taksi - Koç Taksi](https://koctaksi.com/tag/bursa-mudanya-korsan-taksi/),
+[Bursa Mudanya Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-mudanya-korsan-taksi/),
+[Bursa Mudanya Korsan Taksi - Mavi Taksi](https://mavitaksi.com/tag/bursa-mudanya-korsan-taksi),
+[Bursa Orhangazi Korsan Taksi - Mavi Taksi](https://mavitaksi.com/tag/bursa-orhangazi-korsan-taksi),
+[Bursa Orhangazi Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-orhangazi-korsan-taksi/),
+[Bursa Orhangazi Korsan Taksi - Koç Taksi](https://koctaksi.com/tag/bursa-orhangazi-korsan-taksi/),
+[Bursa Yenişehir Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-yenisehir-korsan-taksi/),
+[Bursa Orhaneli Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-orhaneli-korsan-taksi/),
+[Bursa Mustafakemalpaşa Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-mustafakemalpasa-korsan-taksi/),
+[Bursa İnegöl Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-inegol-korsan-taksi/),
+[Bursa Harmancık Korsan Taksi - Korsan Taksi İstanbul](https://korsantaksiistanbul.com/bursa-harmancik-korsan-taksi/),
+[İstanbul Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi-istanbul),
+[Bahçeşehir Korsan Taksi - Mavi Taksi](https://mavitaksi.com/bahcesehir-korsan-taksi-05102203075),
+[Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi),
+[Beylikdüzü Korsan Taksi - Mavi Taksi](https://mavitaksi.com/beylikduzu-korsan-taksi),
+[İstanbul Avrupa Yakası Korsan Taksi - Mavi Taksi](https://mavitaksi.com/istanbul-avrupa-yakasi-korsan-taksi),
+[İstanbul - Bursa Korsan Taksi - Mavi Taksi](https://mavitaksi.com/istanbul-ile-bursa-arasi-korsan-taksi-05102203075),
+[Sultangazi Korsan Taksi - Mavi Taksi](https://mavitaksi.com/sultangazi-korsan-taksi),
+[Sabiha Gökçen - Esenyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/sabiha-gokcen-havalimani-ndan-esenyurt-a-korsan-taksi),
+[Esenyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/korsan-taksi-esenyurt),
+[Balıkyolu Korsan Taksi - Mavi Taksi](https://mavitaksi.com/balikyolu-korsan-taksi),
+[Güzelyurt Korsan Taksi - Mavi Taksi](https://mavitaksi.com/guzelyurt-korsan-taksi),
+[Akbatı Korsan Taksi - Mavi Taksi](https://mavitaksi.com/akbati-korsan-taksi),
+[Marmara Park Korsan Taksi - Mavi Taksi](https://mavitaksi.com/marmarapark-korsan-taksi),
+[Saadetdere Korsan Taksi - Mavi Taksi](https://mavitaksi.com/saadetdere-korsan-taksi),
+[https://mavitaksi.com/sakarya-korsan-taksi-05102203075](https://mavitaksi.com/sakarya-korsan-taksi-05102203075),
+[https://mavitaksi.com/bursa-korsan-taksi](https://mavitaksi.com/bursa-korsan-taksi),
+[https://mavitaksi.com/istanbul-korsan-taksi](https://mavitaksi.com/istanbul-korsan-taksi),
 [https://koctaksi.com/okmeydani-korsan-taksi/](https://koctaksi.com/okmeydani-korsan-taksi/), 0x4rk0 Discord, and all the others who did not wish to be named, thank you all! <3
 
 ## **Contact**
@@ -143,15 +143,15 @@ Welcome aboard my ship friends, hope you decide to stay for a while and learn ab
 > **Email:** `ohshint [at] protonmail.com`
 
 > **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`   
-> **PGP Raw:** [ohshint_0xA552392F_public.asc](https://raw.githubusercontent.com/OhShINT/ohshint.gitbook.io/main/Contact/ohshint_0xA552392F_public.asc)
+> **PGP Raw:** [esenyurtkorsantaksici.blog/](https://esenyurtkorsantaksici.blog/)
 
-> **Twitter:** [@ohshint_](https://twitter.com/mavitaksi)
+> **Twitter:** [Mavitaksi.com_](https://twitter.com/mavitaksi)
 
-> **GitHub:** [OhShINT](https://github.com/ohshint) 
+> **GitHub:** [korsantaksiistanbul.com/](https://korsantaksiistanbul.com/) 
 
-> **Internet Archive:** [ohshint](https://archive.org/details/@ohshint)
+> **Internet Archive:** [https://wpaktuel.com/](https://wpaktuel.com/)
 
-> **URL:** [ohshint.gitbook.io](https://kctaksi.wixsite.com/koctaksi)
+> **URL:** [Koç Taksi](https://kctaksi.wixsite.com/koctaksi)
 
 Like this blog? Consider giving me money so I can buy stuff :)
 
